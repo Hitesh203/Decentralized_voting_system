@@ -28,8 +28,6 @@ During the election time the admin will initiate the election. When the election
 
 
 ## Technologies
-
- - Azure Blockchain
  - Aadhaar API service (for biometric authentication)
  - Python (to communicate with blockchain and for backend and frontend API calls) 
  - Truffle (provides tools to create and test smart contracts)
@@ -37,12 +35,3 @@ During the election time the admin will initiate the election. When the election
  - Flask (web framework)
  - Docker (deployment of portal on the cloud)
 
-<img src="/images/enabled_by.PNG" alt="ENABLED BY"/> 
-
-### Author
-
- - Email: nishant.aklecha@gmail.com
- - LinkedIn: https://www.linkedin.com/in/naklecha
- - CodeChef: https://www.codechef.com/users/naklecha
- - PYPI: https://pypi.org/user/naklecha
- - GitHub: https://github.com/Naklecha
