@@ -2,7 +2,6 @@
 
 A decentralized voting system where a user can walk into a government authorized center (Ex- banks, telecom companies etc.) and cast their vote using the proposed portal.
 
-**LINK TO DEMO ON YOUTUBE:** https://www.youtube.com/watch?v=tCVSpcgiodM
 
 **NOTE:** All diagrams are made by me and appropriate credits must be given before copying it.
 ## Key Advantages
@@ -20,9 +19,6 @@ A decentralized voting system where a user can walk into a government authorized
 
 A user will walk into a government authorized center and complete his/her biometric verification. Once the verification is complete the user will be taken to a web-based portal **(developed by me)** where he/she will be presented with the voting options. The portal then sends the information of the user's vote (encrypted) to backend **(developed by me)** where the data will be decrypted and the vote's transaction from the user to the candidate will take place using the Azure blockchain service. The candidate with the most votes is elected. During each election time the users are that are voted are logged which will make sure only one transaction can be made by the user during the whole election process.
 
-## Workflow Diagram
-
- <img src="/images/workflow.PNG" alt="WORKFLOW"/>
  
 ## Voting System Workflow
 
@@ -30,7 +26,6 @@ During the election time the admin will initiate the election. When the election
 
 **NOTE:** At the end of the election, the candidate with the most votes is elected.
 
-<img src="/images/portal_workflow.png" alt="PORTAL WORKFLOW"/>
 
 ## Technologies
 
