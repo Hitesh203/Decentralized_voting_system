@@ -11,7 +11,7 @@ module.exports = {
     ganacheLocal: {
       provider: () => {
         // Read mnemonic from mnemonic.env file
-         const mnemonic = "chest gadget vacuum observe time owner response device kangaroo able notable list";
+         const mnemonic = "alter frost marine trophy end soul world own impose twelve exit clog";
         //const mnemonic = fs.readFileSync("mnemonic.env").toString().trim();
         return new HDWalletProvider(mnemonic, "http://127.0.0.1:7545");  // Ensure this is port 8545 if using Ganache CLI
       },
