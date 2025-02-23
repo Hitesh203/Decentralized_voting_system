@@ -20,8 +20,8 @@ app.secret_key = os.getenv("SECRET_KEY", "i love white chocolate too")
 
 # Sensitive data (replace with local or hardcoded values)
 
-accounts = ["0x413A3Ad7b115fED517Bc8FeA849A6C783126A1dC","0xe815AED193bF3432b4CcdcBC181ed5D42D47f49b"]  # Add your accounts
-privatekeys = ["0xbeb0f01151521050364daf4142da0bd6179f898c18e9ccda635d9a6323ff2109","0x0b8402b129a286d8dc6ec588f3771bf37c4c93302c0ce47ee5162e8890bfc333"]  # Add your private keys
+accounts = ["0xad84734E7c2594EB79Bb2a9aB124a3E590c4D4c1","0x1214aA600730553BAE880AFF6130e3782dE57760"]  # Add your accounts
+privatekeys = ["0x2fd867b32c4d49e864d7f24889dd8d2ceaeaff15c925e358393dcb55251d1226","0xa82aafebdd7ce41e414aab2202874700cdc2d42fb47167bf341ceae71971b70f"]  # Add your private keys
 
 # Application state
 vote_tx = []
